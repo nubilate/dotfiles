@@ -4,6 +4,8 @@ my personal dotfiles for my cozy satisfaction.
 
 st build: [Avimitin's st build](https://github.com/Avimitin/st)
 
+lockscreen dependent on betterlockscreen, which can be found in the [AUR.](https://aur.archlinux.org/packages/betterlockscreen/)
+
 terminal color schemes dependent on [pywal.](https://github.com/dylanaraps/pywal) 
 
 wallpapers used are dependent on [DistroTube's collection of wallpapers.](https://gitlab.com/dwt1/wallpapers)
